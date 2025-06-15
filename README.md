@@ -5,17 +5,17 @@ This is a **Binance Futures Trading Bot** built with **Python** and **Streamlit*
 
 ---
 
-## 📦 Features
+##  Features
 
-- ✅ Trade on the **Binance Futures Testnet**
-- ✅ Easy-to-use **Streamlit interface**
-- ✅ Supports **MARKET** and **LIMIT** order types
-- ✅ Real-time API response and error handling
-- ✅ Works using your own API key & secret (Testnet only)
+-  Trade on the **Binance Futures Testnet**
+-  Easy-to-use **Streamlit interface**
+-  Supports **MARKET** and **LIMIT** order types
+-  Real-time API response and error handling
+-  Works using your own API key & secret (Testnet only)
 
 ---
 
-## 📸 UI Preview
+## UI Preview
 ![image](https://github.com/user-attachments/assets/4a2bfaba-8fcc-4746-b561-50939ae5d5da)
 
 
@@ -26,32 +26,32 @@ This is a **Binance Futures Trading Bot** built with **Python** and **Streamlit*
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-- Python 🐍
-- Streamlit 📊
+- Python 
+- Streamlit 
 - Binance API (`python-binance`)
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository**:
-git clone https://github.com/bhaskar-it/binance-trading-bot.git
-cd binance-trading-bot
+  git clone https://github.com/bhaskar-it/binance-trading-bot.git
+  cd binance-trading-bot
 
 2. **Create a virtual environment (optional but recommended):**
-python -m venv venv
-source venv/bin/activate
+  python -m venv venv
+  source venv/bin/activate
 
 3. **Install the required packages:**
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 4. **Run the application:**
-streamlit run app.py
+  streamlit run app.py
 
 
-#**How to Use**
+##**How to Use**
   Get your Binance Futures Testnet API key and secret from testnet.binancefuture.com
 
   Launch the app (streamlit run app.py)
@@ -73,10 +73,10 @@ streamlit run app.py
     Click “Place Order” — and you're good to go!
 
 
-#**Security Notice**
-⚠️ Never use real API keys on the Testnet app
-⚠️ This is for educational and testing purposes only.
-⚠️ Do not commit your API keys to public repositories.
+##**Security Notice**<br>
+    Never use real API keys on the Testnet app<br>
+    This is for educational and testing purposes only.<br>
+    Do not commit your API keys to public repositories.<br>
 
 
 #**Project Structure**<br>
