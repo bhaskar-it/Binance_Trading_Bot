@@ -39,33 +39,33 @@ cd binance-trading-bot
 python -m venv venv
 source venv/bin/activate
 
-3.**Install the required packages:**
+3. **Install the required packages:**
 pip install -r requirements.txt
 
-4.**Run the application:**
+4. **Run the application:**
 streamlit run app.py
 
 
 #**How to Use**
-Get your Binance Futures Testnet API key and secret from testnet.binancefuture.com
+  Get your Binance Futures Testnet API key and secret from testnet.binancefuture.com
 
-Launch the app (streamlit run app.py)
+  Launch the app (streamlit run app.py)
 
-Enter your API credentials
+  Enter your API credentials
 
-Select:
+ ** Select:**
 
-Trading pair (e.g., BTCUSDT)
+  Trading pair (e.g., BTCUSDT)
 
-Order side (BUY/SELL)
+  Order side (BUY/SELL)
 
-Order type (MARKET/LIMIT)
+  Order type (MARKET/LIMIT)
 
-Quantity
+  Quantity
 
-Limit price (only for LIMIT orders)
+  Limit price (only for LIMIT orders)
 
-Click “Place Order” — and you're good to go!
+  Click “Place Order” — and you're good to go!
 
 
 #**Security Notice**
@@ -76,10 +76,10 @@ Click “Place Order” — and you're good to go!
 
 #**Project Structure**
 binance_trading_bot/
-├── app.py                  # Main Streamlit app
-├── requirements.txt        # Python dependencies
-├── README.md               # This file
-├── venv/                   # Virtual environment (optional)
+├── app.py                  # Main Streamlit app<br>
+├── requirements.txt        # Python dependencies<br>
+├── README.md               # This file<br>
+├── venv/                   # Virtual environment (optional)<br>
 └── any supporting modules
 
 
