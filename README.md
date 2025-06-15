@@ -16,7 +16,7 @@ This is a **Binance Futures Trading Bot** built with **Python** and **Streamlit*
 ---
 
 ## 📸 UI Preview
-![image](https://github.com/user-attachments/assets/4a2bfaba-8fcc-4746-b561-50939ae5d5da)
+![image](https://github.com/user-attachments/assets/4a2bfaba-8fcc-4746-b561-50939ae5d5da)<br>
 ![image](https://github.com/user-attachments/assets/e7e6bafc-fe96-45a0-858c-a1bc0a7eaaf2)
 
 
