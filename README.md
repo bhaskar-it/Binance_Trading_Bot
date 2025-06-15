@@ -73,13 +73,13 @@ This is a **Binance Futures Trading Bot** built with **Python** and **Streamlit*
     Click “Place Order” — and you're good to go!
 
 
-##**Security Notice**<br>
+# Security Notice:
     Never use real API keys on the Testnet app<br>
     This is for educational and testing purposes only.<br>
     Do not commit your API keys to public repositories.<br>
 
 
-#**Project Structure**<br>
+# Project Structure:
 binance_trading_bot/<br>
 ├── app.py                  # Main Streamlit app<br>
 ├── requirements.txt        # Python dependencies<br>
