@@ -16,8 +16,11 @@ This is a **Binance Futures Trading Bot** built with **Python** and **Streamlit*
 ---
 
 ## 📸 UI Preview
+![image](https://github.com/user-attachments/assets/4a2bfaba-8fcc-4746-b561-50939ae5d5da)
+![image](https://github.com/user-attachments/assets/e7e6bafc-fe96-45a0-858c-a1bc0a7eaaf2)
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Binance+Trading+Bot+UI)
+
+
 
 ---
 
@@ -53,19 +56,19 @@ streamlit run app.py
 
   Enter your API credentials
 
- ** Select:**
+#  Select:
 
-  Trading pair (e.g., BTCUSDT)
+    Trading pair (e.g., BTCUSDT)
 
-  Order side (BUY/SELL)
+    Order side (BUY/SELL)
 
-  Order type (MARKET/LIMIT)
+    Order type (MARKET/LIMIT)
 
-  Quantity
+ # Quantity:
 
-  Limit price (only for LIMIT orders)
+    Limit price (only for LIMIT orders)
 
-  Click “Place Order” — and you're good to go!
+    Click “Place Order” — and you're good to go!
 
 
 #**Security Notice**
@@ -74,8 +77,8 @@ streamlit run app.py
 ⚠️ Do not commit your API keys to public repositories.
 
 
-#**Project Structure**
-binance_trading_bot/
+#**Project Structure**<br>
+binance_trading_bot/<br>
 ├── app.py                  # Main Streamlit app<br>
 ├── requirements.txt        # Python dependencies<br>
 ├── README.md               # This file<br>
